@@ -69,7 +69,7 @@ Since you don't have any sort of `TPM`, add follwoing registry after booting fro
 
 ![image](https://user-images.githubusercontent.com/4049421/136686065-86d63f79-860a-4698-b2b0-092b04599dc9.png)
 
-2.3 Add new `DWORD` named `BypassTMPCheck` and change the value to `1`.
+2.3 Add new `DWORD` named `BypassTPMCheck` and change the value to `1`.
 
 ![image](https://user-images.githubusercontent.com/4049421/136686133-adac3bcf-bfa6-4adf-94bb-6d1182e0f29c.png)
 
