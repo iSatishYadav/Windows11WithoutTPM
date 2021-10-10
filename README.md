@@ -15,7 +15,7 @@ I've categorized into 3 reason:
 2. You don't have any `TPM`. But do have `Secure Boot`. 
 3. You don't even have `Secure Boot`.
 
-> What is `TPM (Trusted Platform Module)`
+> What is [`TPM (Trusted Platform Module)`](https://docs.microsoft.com/en-us/windows/security/information-protection/tpm/trusted-platform-module-top-node)
 
 How to find out which one do you have? Here's how, type following command on your `Command Prompt` or `Run`
 
