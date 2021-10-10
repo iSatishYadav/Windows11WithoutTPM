@@ -87,4 +87,4 @@ And that's it! That wasn't so bad, right?
 ## Disclaimer
 Even though I've personally tested the instruction on my personal Windows 10 machine (without any TPM, but with Secure Boot). I am by no means responsible for any damage resulted by following instructions.
 
-Originally posted at https://blog.satishyadav.com.
+Originally posted at https://blog.satishyadav.com/How-to-Install-Windows-11-on-unsupported-Devices-Officially-No-Crack-No-3rd-Party-Tool/
